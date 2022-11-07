@@ -6,8 +6,9 @@
 
 ### Links
 - **Website:** [dp.design](https://dp.design "Visit Derek Perry's Website at dp.design")
-- **Twitter:** [twitter.com/_derekperry](https://twitter.com/_derekperry "Visit Derek Perry's Twitter at twitter.com/_derekperry")
-- **YouTube:** [youtube.com/channel/UCUqnYwp1bSEn6x_jOAJ5DXQ](https://youtube.com/channel/UCUqnYwp1bSEn6x_jOAJ5DXQ "Visit Derek Perry's YouTube at youtube.com/channel/UCUqnYwp1bSEn6x_jOAJ5DXQ")
-- **Twitch:** [twitch.tv/derekperry](https://twitch.tv/derekperry "Visit Derek Perry's Twitch at twitch.tv/derekperry")
-- **ArtStation:** [artstation.com/derekperry](https://artstation.com/derekperry "Visit Derek Perry's ArtStation at artstation.com/derekperry")
+- **GitHub:** [github.com/derek-perry](https://github.com/derek-perry "Visit Derek Perry's GitHub at github.com/derek-perry")
 - **LinkedIn:** [linkedin.com/in/derek-perry](https://linkedin.com/in/derek-perry "Visit Derek Perry's LinkedIn at linkedin.com/in/derek-perry")
+- **YouTube:** [youtube.com/@derek-perry](https://youtube.com/@derek-perry "Visit Derek Perry's YouTube at youtube.com/@derek-perry")
+- **Twitch:** [twitch.tv/derekperry](https://twitch.tv/derekperry "Visit Derek Perry's Twitch at twitch.tv/derekperry")
+- **Twitter:** [twitter.com/_derekperry](https://twitter.com/_derekperry "Visit Derek Perry's Twitter at twitter.com/_derekperry")
+- **ArtStation:** [artstation.com/derekperry](https://artstation.com/derekperry "Visit Derek Perry's ArtStation at artstation.com/derekperry")
