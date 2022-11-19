@@ -12,3 +12,4 @@
 - **Twitch:** [twitch.tv/derekperry](https://twitch.tv/derekperry "Visit Derek Perry's Twitch at twitch.tv/derekperry")
 - **Twitter:** [twitter.com/_derekperry](https://twitter.com/_derekperry "Visit Derek Perry's Twitter at twitter.com/_derekperry")
 - **ArtStation:** [artstation.com/derekperry](https://artstation.com/derekperry "Visit Derek Perry's ArtStation at artstation.com/derekperry")
+- **Mastodon:** [@dp@mastodon.gamedev.place](https://mastodon.gamedev.place/@dp "Visit Derek Perry's Mastodon at mastodon.gamedev.place/@dp")
