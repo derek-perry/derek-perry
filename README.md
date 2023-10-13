@@ -1,11 +1,11 @@
 ## Derek Perry
 ### Interactive Designer: Game, Graphic, and Web
-**Portfolio/Website:** [dp.design](https://dp.design "Visit Derek Perry's Website at dp.design") **|** **Email:** [dp@dp.design](mailto:dp@dp.design "Email Derek Perry via dp@dp.design")
+**Portfolio/Website:** [derek-perry.com](https://derek-perry.com "Visit Derek Perry's Website at derek-perry.com") **|** **Email:** [dp@derek-perry.com](mailto:dp@derek-perry.com "Email Derek Perry via dp@derek-perry.com")
 
 ---
 
 ### Links
-- **Website:** [dp.design](https://dp.design "Visit Derek Perry's Website at dp.design")
+- **Website:** [derek-perry.com](https://derek-perry.com "Visit Derek Perry's Website at derek-perry.com")
 - **GitHub:** [github.com/derek-perry](https://github.com/derek-perry "Visit Derek Perry's GitHub at github.com/derek-perry")
 - **LinkedIn:** [linkedin.com/in/derek-perry](https://linkedin.com/in/derek-perry "Visit Derek Perry's LinkedIn at linkedin.com/in/derek-perry")
 - **YouTube:** [youtube.com/@derek-perry](https://youtube.com/@derek-perry "Visit Derek Perry's YouTube at youtube.com/@derek-perry")
