@@ -10,6 +10,6 @@
 - **LinkedIn:** [linkedin.com/in/derek-perry](https://linkedin.com/in/derek-perry "Visit Derek Perry's LinkedIn at linkedin.com/in/derek-perry")
 - **YouTube:** [youtube.com/@derek-perry](https://youtube.com/@derek-perry "Visit Derek Perry's YouTube at youtube.com/@derek-perry")
 - **Twitch:** [twitch.tv/derekperry](https://twitch.tv/derekperry "Visit Derek Perry's Twitch at twitch.tv/derekperry")
-- **Twitter:** [twitter.com/_derekperry](https://twitter.com/_derekperry "Visit Derek Perry's Twitter at twitter.com/_derekperry")
+- **X/Twitter:** [x.com/_derekperry](https://x.com/_derekperry "Visit Derek Perry's X or Twitter at x.com/_derekperry")
 - **ArtStation:** [artstation.com/derekperry](https://artstation.com/derekperry "Visit Derek Perry's ArtStation at artstation.com/derekperry")
 - **Mastodon:** [@dp@mastodon.gamedev.place](https://mastodon.gamedev.place/@dp "Visit Derek Perry's Mastodon at mastodon.gamedev.place/@dp")
