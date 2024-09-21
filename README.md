@@ -1,10 +1,10 @@
-## Derek Perry
-### Interactive Designer: Game, Graphic, and Web
+# Derek Perry
+**Interactive Designer: Game, Graphic, and Web**
 **Portfolio/Website:** [derek-perry.com](https://derek-perry.com "Visit Derek Perry's Website at derek-perry.com") **|** **Email:** [dp@derek-perry.com](mailto:dp@derek-perry.com "Email Derek Perry via dp@derek-perry.com")
 
 ---
 
-### Links
+## Links
 - **Website:** [derek-perry.com](https://derek-perry.com "Visit Derek Perry's Website at derek-perry.com")
 - **GitHub:** [github.com/derek-perry](https://github.com/derek-perry "Visit Derek Perry's GitHub at github.com/derek-perry")
 - **LinkedIn:** [linkedin.com/in/derek-perry](https://linkedin.com/in/derek-perry "Visit Derek Perry's LinkedIn at linkedin.com/in/derek-perry")
