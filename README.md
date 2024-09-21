@@ -1,5 +1,6 @@
 # Derek Perry
 **Interactive Designer: Game, Graphic, and Web**
+
 **Portfolio/Website:** [derek-perry.com](https://derek-perry.com "Visit Derek Perry's Website at derek-perry.com") **|** **Email:** [dp@derek-perry.com](mailto:dp@derek-perry.com "Email Derek Perry via dp@derek-perry.com")
 
 ---
